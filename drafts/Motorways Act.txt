@@ -1,0 +1,235 @@
+---
+PREFACE
+
+  LONGTITLE An Act to provide for the development, maintenance, and regulation of motorways, ensure motorway-specific safety, and facilitate the efficient movement of goods and people on motorways.
+
+  This Act seeks to enhance the connectivity and safety of Samland's motorway network while promoting sustainable transportation practices.
+
+PREAMBLE
+
+  WHEREAS the development and maintenance of motorways are essential for economic growth and public convenience,
+
+  AND WHEREAS it is in the public interest to regulate motorways to ensure safety and efficiency.
+
+  BE IT ENACTED by the Parliament of Samland as follows:
+
+BODY
+
+CHAP 1 - Preliminary Provisions
+
+  SEC 1 - Short title and commencement
+
+    PARA 1
+      This Act may be cited as the Motorways Act 2024.
+
+    PARA 2
+      This Act shall come into operation on 1st January 2025.
+
+  SEC 2 - Interpretation
+
+    PARA
+      In this Act, unless the context otherwise indicates:
+
+      SUBPARA (a)
+        "motorway" means a high-capacity road specifically designed and designated for fast-moving vehicular traffic, with restricted access points;
+
+      SUBPARA (b)
+        "Authority" means the "Samland Department of Transport" established under the Public Roads Act 2024;
+
+      SUBPARA (c)
+        "loading gauge" means the maximum dimensions of a vehicle on a motorway;
+
+      SUBPARA (d)
+        "lane" means an area designated for single-file vehicle movement;
+
+      SUBPARA (e)
+        "carriageway" means multiple lanes where travel is permitted in one direction.
+
+CHAP 2 - Establishment and Governance of Motorways
+
+  SEC 3 - Designation of motorways
+
+    PARA 1
+      The Secretary of Transport may, by notice in the Gazette, designate any road or proposed road as a motorway.
+
+    PARA 2
+      Before designating a road as a motorway, the Secretary shall conduct public consultations and an environmental impact assessment.
+
+CHAP 3 - Operation and Use of Motorways
+
+  SEC 4 - Toll collection
+
+    PARA 1
+      The Authority may collect tolls from vehicles using motorways, subject to regulations prescribed by the Secretary of Transport.
+
+    PARA 2
+      Toll rates shall be reviewed annually and published in the Gazette.
+
+CHAP 4 - Safety and Environmental Provisions
+
+  SEC 5 - Motorway-specific safety measures
+
+    PARA 1
+      The Authority shall implement motorway-specific safety measures, including:
+
+      SUBPARA (a)
+        installation of advanced safety barriers and lighting designed for high-speed traffic;
+
+      SUBPARA (b)
+        establishment of motorway emergency response services;
+
+      SUBPARA (c)
+        periodic safety audits focusing on motorway use.
+
+CHAP 5 - Motorway Dimensions
+
+  SEC 6 - Loading gauge
+
+    PARA 1
+      The Loading Gauge for Motorways shall be the following:
+
+      SUBPARA (a)
+        a maximum vehicle width of 2.7 meters; and
+
+      SUBPARA (b)
+        a maximum vehicle height of 5 meters.
+
+  SEC 7 - Lane dimensions
+
+    PARA 1
+      The minimum width of a lane shall be 3 meters.
+
+  SEC 8 - Carriageway dimensions
+
+    PARA 1
+      There shall be a minimum separation of 1.5 meters between the edges of two carriageways.
+
+CHAP 6 - Development and Funding
+
+  SEC 9 - Motorway development plans
+
+    PARA 1
+      The Authority shall prepare a comprehensive motorway development plan every five years.
+
+    PARA 2
+      The plan shall identify priority projects, estimated costs, and timelines, and shall be subject to parliamentary approval.
+
+  SEC 10 - Funding mechanisms
+
+    PARA 1
+      The development and maintenance of motorways shall be funded through:
+
+      SUBPARA (a)
+        revenue from tolls;
+
+      SUBPARA (b)
+        public-private partnerships;
+
+      SUBPARA (c)
+        international loans and grants, where applicable.
+
+  SEC 11 - Transparency and accountability
+
+    PARA 1
+      The Authority shall publish an annual report detailing motorway expenditures, revenue, and progress on development projects.
+
+    PARA 2
+      The report shall be made publicly available online and in the Gazette.
+
+CHAP 7 - Technological Integration
+
+  SEC 12 - Intelligent Transportation Systems for Motorways
+
+    PARA 1
+      The Authority shall deploy Intelligent Transportation Systems (ITS) specifically for motorways to enhance their efficiency and safety, including:
+
+      SUBPARA (a)
+        real-time traffic monitoring tailored for motorway conditions;
+
+      SUBPARA (b)
+        automated toll collection systems;
+
+      SUBPARA (c)
+        electronic signage for dynamic traffic management;
+
+      SUBPARA (d)
+        systems for reporting and responding to incidents on motorways.
+
+  SEC 13 - Data protection
+
+    PARA 1
+      All data collected through ITS for motorways shall be handled in compliance with applicable data protection laws and regulations.
+
+    PARA 2
+      The Authority shall implement measures to prevent unauthorized access or misuse of motorway-specific data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAP 5 - Offences and Penalties
+
+  SEC 9 - Prohibited activities
+
+    PARA 1
+      No person shall:
+
+      SUBPARA (a)
+        enter a motorway on foot unless in case of emergency;
+
+      SUBPARA (b)
+        drive a vehicle in excess of the prescribed speed limit;
+
+      SUBPARA (c)
+        obstruct traffic flow by unauthorised stopping or parking;
+
+      SUBPARA (d)
+        cause damage to motorway infrastructure.
+
+  SEC 10 - Penalties
+
+    PARA 1
+      Any person who contravenes the provisions of Section 9 shall be guilty of an offence and liable, on conviction:
+
+      SUBPARA (a)
+        to a fine not exceeding 10,000 Samland Dollars; or
+
+      SUBPARA (b)
+        to community service for a term not exceeding six weeks; or
+
+      SUBPARA (c)
+        to imprisonment for a term not exceeding one year; or
+
+      SUBPARA (d)
+        any combination of the above.
+
+CHAP 6 - Schedules
+
+SCHEDULE Penalty Categories
+
+  The following penalty categories apply under this Act:
+
+  ITEMS
+
+    ITEM 1 - Minor offences
+      Offences under Section 9(a) or Section 9(c) involving minor disruptions: fine not exceeding 500 Samland Dollars.
+
+    ITEM 2 - Moderate offences
+      Offences under Section 9(b) involving speed limit violations exceeding 20% of the prescribed limit: fine not exceeding 2,000 Samland Dollars or community service for a term not exceeding six weeks.
+
+    ITEM 3 - Major offences
+      Offences under Section 9(d) or repeated violations of any provision in Section 9: fine not exceeding 10,000 Samland Dollars or imprisonment for up to one year.
+
+SCHEDULE Final provisions
+
+  This Act is enacted by the Parliament of Samland, signed into law on this day of 15th of December 2024.
