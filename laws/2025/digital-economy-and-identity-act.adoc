@@ -1,0 +1,92 @@
+= Digital Economy and Identity Act
+:doctype: book
+:toc: left
+:toc-title: Contents
+:revnumber: 1.0
+:revdate: 2025-10-24
+:revremark: Initial publication of Act
+
+
+== Chapter 1: General Provisions
+
+=== Section 1. Short Title
+This Act may be cited as the "Digital Economy and Identity Act 2025."
+
+=== Section 2. Purpose
+The purpose of this Act is to:
+* Establish a legal framework for the issuance and use of Samland Digital Currency (SML).
+* Recognize digital identity credentials as legally binding proof of identity.
+* Provide a secure, transparent, and auditable framework for economic and civic interactions.
+
+=== Section 3. Definitions
+* `Samland Digital Currency (SML)`: the official digital currency of Samland and to be known as "Samland Coin"
+* `Central Bank of Samland (CBS)`: the authority responsible for issuance and regulation of SML.
+* `Digital Identity Authority (DIA)`: the entity responsible for issuing verifiable digital identity credentials.
+* `Regional Service Node (RSN)`: a government-licensed node providing citizen wallet services.
+* `Citizen Credential`: a cryptographically verifiable credential issued by the DIA.
+
+== Chapter 2: Digital Currency
+
+=== Section 4. Legal Tender
+1. SML is hereby declared legal tender in Samland.
+2. All government obligations, taxes, and public payments shall accept SML.
+
+=== Section 5. Issuance and Supply
+1. CBS is the sole authority to mint and burn SML.
+2. Initial distribution of SML shall be as determined by CBS regulations.
+
+=== Section 6. Transaction Finality
+Transactions executed on the Samland blockchain are legally binding once committed to the ledger.
+
+=== Section 7. Custody and Regional Service Nodes
+1. RSNs may hold and manage citizen wallet credentials under CBS oversight.
+2. RSNs shall be licensed and audited according to CBS regulations.
+
+== Chapter 3: Digital Identity
+
+=== Section 8. Recognition of Digital Identity
+1. DIA-issued credentials constitute legally recognised proof of identity.
+2. Citizens may use credentials to authenticate to government, commercial, and civic services.
+
+=== Section 9. Issuance and Revocation
+1. DIA shall issue credentials based on verified national registration records.
+2. Credentials may be revoked or suspended only under procedures defined by DIA regulations.
+
+=== Section 10. Privacy and Data Protection
+1. Personal data collected for identity verification shall be minimal and purpose-limited.
+2. Citizens have the right to audit, revoke, or correct data stored in DIA custody.
+
+== Chapter 4: Taxation and Compliance
+
+=== Section 11. Tax Authority Access
+1. The Tax Authority may access transaction data necessary for compliance, subject to privacy protections.
+2. Automated withholding and reporting may be implemented via smart contracts.
+
+=== Section 12. Legal Enforcement
+1. Blockchain transactions and smart contracts enforcing tax obligations are legally recognised.
+2. Fraudulent attempts to falsify digital transactions or credentials are punishable under criminal law.
+
+== Chapter 5: Governance and Oversight
+
+=== Section 13. Audit and Transparency
+1. CBS and DIA shall maintain auditable logs of system activity.
+2. Public reporting of non-sensitive aggregate economic data shall be published annually.
+
+=== Section 14. Standards and Interoperability
+1. All components shall follow open standards for data, protocols, and cryptography, or where necessary,
+new standards shall be developed.
+2. Systems shall be interoperable with international digital identity and payment frameworks where feasible.
+
+== Chapter 6: Transitional and Miscellaneous Provisions
+
+=== Section 15. Transitional Measures
+1. Pre-existing debts and obligations may be converted into SML according to CBS guidance.
+2. RSNs shall facilitate onboarding of all citizens and businesses into the digital economy.
+
+=== Section 16. Effective Date
+This Act comes into effect on the date of publication in the Samland Official Repository.
+
+=== Section 17. Regulatory Authority
+1. CBS and DIA are authorised to make amendments to this Act.
+2. CBS and DIA are empowered to issue additional regulations necessary to implement this Act.
+
