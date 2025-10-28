@@ -1,0 +1,22 @@
+{
+    "entries": [
+        {
+            "title": "Data Protection Act 2025",
+            "date_published": "2025-10-28",
+            "date_enacted": "2025-10-28",
+            "file": "data-protection-act.adoc"
+        },
+        {
+            "title": "Digital Currency and Payments Act 2025",
+            "date_published": "2025-10-28",
+            "date_enacted": "2025-10-28",
+            "file": "digital-currency-and-payments-act.adoc"
+        },
+        {
+            "title": "Digital Identity Act 2025",
+            "date_published": "2025-10-28",
+            "date_enacted": "2025-10-28",
+            "file": "digital-identity-act.adoc"
+        }
+    ]
+}

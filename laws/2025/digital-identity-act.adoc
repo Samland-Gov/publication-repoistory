@@ -1,0 +1,55 @@
+= Digital Identity Act 2025
+:doctype: book
+:docdate: 2025-10-28
+
+== Chapter 1: General Provisions
+
+=== Section 1: Purpose
+1. This Act may be cited as the "Digital Identity Act 2025".
+2. This Act establishes a national digital identity framework to provide secure, verifiable, and sovereign authentication for all citizens and residents of Samland.
+
+=== Section 2: Scope
+1. Applies to all entities issuing, verifying, or relying upon digital identities within Samland.
+2. Covers issuance, authentication, and revocation of digital credentials.
+
+=== Section 3: Definitions
+For the purposes of this Act:
+
+- *Digital Identity*: State-issued electronic credential used for authentication.
+- *The Home Office*: Public agency responsible for issuance, revocation, and governance.
+- *Credential Carrier*: Physical or digital medium containing identity information (smart card, QR code, or mobile app).
+- *Relying Party*: Any entity that uses the identity system to authenticate individuals.
+
+== Chapter 2: Identity Issuance and Management
+
+=== Section 4: Issuance
+1. Digital identities are issued upon registration in the national civil registry.
+2. Credentials must be unique, cryptographically secure, and verifiable.
+
+=== Section 5: Revocation and Suspension
+1. Credentials may be revoked or suspended by the Home Office under legal procedure.
+2. Revocation status must be accessible to all relying parties in real time.
+
+=== Section 6: Authentication
+1. Citizens and residents may use their digital identity to authenticate with government, financial, and commercial systems.
+2. Authentication mechanisms must not store or expose personal information beyond what is necessary for identity verification.
+
+== Chapter 3: Interoperability and Standards
+
+=== Section 7: Technical Standards
+1. The Home Office shall define technical protocols, open APIs, and credential formats.
+2. Systems integrating with the identity framework must comply with national and international standards for interoperability.
+
+=== Section 8: Separation from Other Systems
+1. Digital identity infrastructure shall remain legally and operationally independent from financial or other sectoral systems.
+2. Relying parties may only use identity assertions, not the underlying personal data.
+
+== Chapter 4: Governance and Oversight
+
+=== Section 9: Responsibilities of the Home Office
+1. Maintain the national digital identity registry.
+2. Ensure operational integrity, cryptographic security, and availability.
+3. Audit relying parties and integration points for compliance with this Act.
+
+=== Section 10: Dispute Resolution
+Individuals may appeal revocation, denial, or suspension of credentials through the the Home Office or judiciary.

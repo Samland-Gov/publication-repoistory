@@ -1,0 +1,91 @@
+= Data Protection Act 2025
+:doctype: book
+:docdate: 2025-10-28
+
+== Chapter 1: General Principles
+
+=== Section 1: Purpose
+1. This Act may be cited as the "Data Protection Act 2025".
+2. This Act guarantees the right of every person in Samland to personal data protection and privacy. It establishes uniform obligations for all entities that collect, use, or otherwise process personal data.
+
+=== Section 2: Scope
+1. This Act applies to all natural or legal persons, public authorities, and organisations operating within the jurisdiction of Samland.
+2. No sector or industry is exempt unless explicitly defined within this Act.
+3. The Act applies to both automated and manual data processing.
+
+=== Section 3: Definitions
+For the purposes of this Act:
+
+- *Personal Data*: Any information relating to an identified or identifiable person.
+- *Data Subject*: The individual to whom personal data relates.
+- *Data Controller*: The entity that determines the purposes and means of processing.
+- *Data Processor*: The entity that processes data on behalf of a controller.
+- *The Home Office*: The independent supervisory body established under this Act.
+- *Consent*: A freely given, specific, informed, and unambiguous indication of a person's wishes.
+
+== Chapter 2: Rights of Individuals
+
+=== Section 4: Right to Transparency
+Data subjects have the right to be informed, in clear and accessible language, about the collection and use of their personal data.
+
+=== Section 5: Right of Access and Portability
+1. Every person may obtain confirmation of whether personal data concerning them is being processed.
+2. Upon request, controllers must provide access to the data in a structured, commonly used, and machine-readable format.
+
+=== Section 6: Right to Rectification and Erasure
+1. Individuals may request correction of inaccurate data or deletion of personal data without undue delay.
+2. Deletion requests shall be granted where data is no longer necessary for its original purpose or where consent has been withdrawn.
+
+=== Section 7: Right to Object and Restrict Processing
+Data subjects may object to processing or request restriction where processing is unlawful or contested.
+
+== Chapter 3: Lawful and Fair Processing
+
+=== Section 8: Legal Bases
+Processing of personal data shall be lawful only if at least one of the following conditions applies:
+
+- The data subject has provided explicit consent.
+- Processing is required by law or regulation.
+- Processing is necessary for a contract, public task, or vital interest.
+- Processing is justified by legitimate interests that do not override individual rights.
+
+=== Section 9: Data Minimisation and Retention
+1. Only data strictly necessary for the declared purpose may be collected.
+2. Personal data must not be retained longer than required for lawful use.
+
+=== Section 10: Accuracy and Integrity
+Data controllers shall ensure that personal data remains accurate, complete, and up to date.
+
+=== Section 11: Security of Processing
+Controllers and processors must implement appropriate technical and organisational safeguards to ensure confidentiality, integrity, and resilience of processing systems.
+
+== Chapter 4: Oversight and Governance
+
+=== Section 12: The Home Office
+1. The Home Office is established as an independent supervisory body with budgetary and administrative autonomy.
+2. The Home Office shall:
+   - Monitor and enforce compliance with this Act.
+   - Provide guidance and recommendations.
+   - Investigate complaints and data breaches.
+
+=== Section 13: Data Breach Notification
+1. Controllers must notify the Home Office of any breach that may endanger personal rights within seventy-two hours of discovery.
+2. Where high risk exists, affected individuals must also be informed without undue delay.
+
+=== Section 14: International Data Transfers
+1. Personal data may only be transferred to jurisdictions guaranteeing an adequate level of protection.
+2. The Home Office shall maintain a list of recognised jurisdictions and approved mechanisms for cross-border data flows.
+
+== Chapter 5: Remedies, Penalties, and Supremacy
+
+=== Section 15: Enforcement and Remedies
+1. Individuals may file complaints directly with the Home Office or seek judicial remedies for violations of this Act.
+2. The Home Office may impose administrative fines, order suspension of data processing, or require corrective measures.
+
+=== Section 16: Penalties
+1. Serious or repeated violations may result in fines up to four percent of the entity's total annual turnover or an equivalent statutory maximum.
+2. Civil liability may be pursued independently of administrative penalties.
+
+=== Section 17: Supremacy of Privacy
+1. The right to data protection is fundamental and applies to all areas of governance and commerce.
+2. All current and future legislation must be interpreted in accordance with this Act.

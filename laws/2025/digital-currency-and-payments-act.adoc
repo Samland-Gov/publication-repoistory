@@ -1,0 +1,46 @@
+= Digital Currency and Payments Act 2025
+:doctype: book
+:docdate: 2025-10-28
+
+== Chapter 1: General Provisions
+
+=== Section 1: Purpose
+1. This Act may be cited as the "Digital Currency and Payments Act 2025".
+2. This Act establishes the Samland Digital Currency (SML) as legal tender and defines standards for issuance, transaction processing, and regulatory oversight.
+
+=== Section 2: Scope
+1. Applies to all entities involved in the issuance, transaction processing, or facilitation of SML.
+2. Includes citizen-to-citizen, citizen-to-merchant, and merchant-to-merchant payments.
+
+=== Section 3: Definitions
+For the purposes of this Act:
+
+- *Digital Currency (SML)*: Legal tender denominated and recorded via ISO 20022-compliant ledgers.
+- *Payment Infrastructure*: Centralised systems that maintain and process transaction records.
+- *Payment Service Provider (PSP)*: Entity operating citizen-facing infrastructure or merchant integration.
+- *Department of Finance (DoF)*: Institution responsible for currency issuance, monetary policy, and financial oversight.
+
+== Chapter 2: Transactions and Compliance
+
+=== Section 4: Transaction Standards
+1. All SML transactions must comply with ISO 20022 messaging standards.
+2. Payment systems must ensure accuracy, consistency, and reconciliation of transactions in accordance with ISO 20022.
+
+=== Section 5: Citizen and Merchant Access
+1. Citizens may use payment endpoints (apps, terminals, mobile wallets) to initiate SML transactions.
+2. Payment systems may authenticate users via the national digital identity system but may not retain identity data beyond verification.
+
+== Chapter 3: Regulation and Oversight
+
+=== Section 6: DoF Responsibilities
+1. Approve, certify, and monitor PSPs and payment infrastructure.
+2. Ensure ISO 20022 compliance across all institutions.
+3. Audit transaction processing and reconciliation procedures for legal, tax, and monetary compliance.
+
+=== Section 7: Enforcement
+1. Non-compliance may result in fines, suspension, or revocation of authorisation.
+2. DoF decisions may be appealed through administrative or judicial channels.
+
+=== Section 8: Updates and Standards
+1. The DoF shall maintain ISO 20022 compliance and may issue updated technical standards.
+2. Updates must not compromise transaction integrity or interoperability.
