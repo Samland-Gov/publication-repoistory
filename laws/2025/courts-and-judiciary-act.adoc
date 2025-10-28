@@ -1,0 +1,94 @@
+= Courts and Judiciary Act 2025
+:doctype: book
+:docdate: 2025-10-28
+
+== Chapter 1: General Provisions
+
+=== Section 1: Purpose
+1. This Act may be cited as the "Courts and Judiciary Act 2025".
+2. This Act establishes the structure, jurisdiction, and functioning of the judicial system in Samland, ensuring independence, fairness, and access to justice for all citizens.
+
+=== Section 2: Scope
+1. This Act applies to all courts, judges, and judicial officers operating within the jurisdiction of Samland.
+2. It governs the organisation, administration, and oversight of the judiciary.
+
+=== Section 3: Definitions
+For the purposes of this Act:
+
+- *Judiciary*: The system of courts and judges responsible for interpreting and applying the law.
+- *Court*: Any judicial body established under this Act.
+- *Judge*: An individual appointed to preside over court proceedings.
+- *The Judicial Council*: The independent body responsible for overseeing the judiciary.
+
+== Chapter 2: The Judicial Council
+
+=== Section 4: Structure and Functions of the Judicial Council
+1. The Judicial Council shall oversee the administration of the judiciary, including appointments, discipline, and performance evaluation of judges.
+2. The Council shall report annually to the Home Office on the state of the judiciary.
+3. The Council shall consist of:
+   - Chief Justice (Chair)
+   - Senior judges from each level of court
+   - Representatives from the legal profession
+   - Members appointed by a parliamentary committee
+
+=== Section 5: Appointment of Judges
+1. Judges shall be appointed by voting members of the Judicial Council based on merit, experience, and integrity.
+2. Appointments shall be for a fixed term of ten (10) years.
+    a. A judge may be reappointed for one further term of ten (10) years only after a performance review by the Judicial Council and confirmation by a two-thirds majority of its voting members.
+    b. Judges shall retire on reaching the age of 70.
+    c. The Judicial Council shall publish detailed procedures specifying:
+        - reappointment criteria;
+        - mandatory retirement;
+        - temporary extensions in exceptional circumstances;
+        - notice periods; and
+        - the grounds and fair process for suspension or removal (including investigation, right to representation, and right to appeal).
+3. Judges may serve multiple courts or jurisdictions as determined by the Judicial Council to address workload and expertise needs.
+
+=== Section 6: Disciplinary Procedures
+1. The Judicial Council shall establish procedures for investigating and addressing complaints against judges.
+2. Disciplinary actions may include warnings, suspension, or removal from office, following due process.
+
+== Chapter 3: Structure of the Judiciary
+
+=== Section 7: Court Hierarchy
+1. The judiciary shall consist of the following levels of courts:
+   - Supreme Court
+   - Appellate Courts
+   - District Courts
+   - Magistrate Courts
+
+2. Each level of court shall have defined jurisdiction and authority as follows:
+    a. Supreme Court — original jurisdiction in legislative matters and disputes between branches of government or constituent units; final appellate jurisdiction over all lower courts; power of judicial review and to issue binding precedent.
+    b. Appellate Courts — appellate jurisdiction to hear appeals from District and Magistrate Courts and from specified tribunals; power to affirm, reverse, modify or remand lower court decisions.
+    c. District Courts — original jurisdiction in serious criminal offences and civil claims above statutory monetary thresholds; appellate jurisdiction over Magistrate Court decisions as provided by statute.
+    d. Magistrate Courts — original jurisdiction in summary criminal offences, minor civil claims within statutory limits, and preliminary hearings for indictable offences.
+    e. Specialized courts and tribunals — jurisdiction over family, commercial, administrative, juvenile, and other subject-matter areas as established by statute.
+    f. Territorial limits, monetary thresholds, time limits, procedural rules, and the allocation of exclusive or concurrent jurisdiction shall be specified in enabling legislation and implementing regulations; the Judicial Council shall publish rules and guidance to give effect to those provisions.
+
+=== Section 8: Appeals and Review
+1. Decisions of lower courts may be appealed to higher courts as defined by law.
+2. The Supreme Court shall have the authority to review and overturn decisions of lower courts in accordance with established legal principles
+
+=== Section 9: Judicial Independence
+1. Judges shall perform their duties independently, free from external influence or pressure.
+2. The Judicial Council shall safeguard the independence of the judiciary and address any threats to it.
+
+== Chapter 4: Administration of Justice
+
+=== Section 10: Court Procedures
+1. Courts shall establish and follow procedures that ensure fair and timely resolution of cases.
+2. Procedures shall be transparent and accessible to all parties involved.
+
+=== Section 11: Access to Justice
+1. All individuals shall have the right to access the courts and seek legal redress.
+2. Legal aid and support services shall be provided to ensure equitable access for disadvantaged individuals.
+3. Access to justice should be provided regardless of economic status, geographic location, or social background.
+
+== Chapter 5: Transitional and Final Provisions
+
+=== Section 12: Transitional Arrangements
+1. Existing courts and judicial officers shall continue to operate under this Act until restructured or reappointed as necessary.
+2. The Judicial Council shall oversee the transition to the new judicial structure.
+
+=== Section 13: Commencement
+This Act shall come into force on the date of its publication in the official repository.
