@@ -1,6 +1,4 @@
 = Data Protection Act 2025
-:doctype: book
-:docdate: 2025-10-28
 
 == Chapter 1: General Principles
 

@@ -1,6 +1,4 @@
 = Standards and Accreditation Act 2025
-:doctype: book
-:docdate: 2025-10-29
 
 == Chapter 1: General Provisions
 
