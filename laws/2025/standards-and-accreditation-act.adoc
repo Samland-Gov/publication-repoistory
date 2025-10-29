@@ -1,0 +1,107 @@
+= Standards and Accreditation Act 2025
+:doctype: book
+:docdate: 2025-10-29
+
+== Chapter 1: General Provisions
+
+=== Section 1: Purpose
+1. This Act may be cited as the "Standards and Accreditation Act 2025".
+2. This Act establishes a unified system for the development, recognition, and publication of official standards across all sectors in Samland.
+3. It ensures that standards relating to safety, quality, interoperability, and public welfare are maintained in an independent, transparent, and consistent manner.
+
+=== Section 2: Scope
+1. This Act applies to all fields of public administration, industry, commerce, infrastructure, and technology within the jurisdiction of Samland.
+2. It governs the recognition and publication of standards that may be technical, procedural, constructional, or otherwise related to the orderly and safe functioning of society.
+
+=== Section 3: Definitions
+For the purposes of this Act:
+
+- *Standard*: A formally adopted specification defining quality, safety, performance, or interoperability requirements for goods, services, systems, or procedures.
+- *Legally Required Standard*: A standard designated as mandatory under this Act or any other Act or regulation.
+- *Endorsed Standard*: A standard recognised as best practice but not legally binding.
+- *Recommended Standard*: A non-binding guideline issued to encourage consistency or to support future harmonisation.
+- *Accreditation*: Formal recognition that an organisation is competent to perform conformity assessment activities.
+- *The Samland Standards Agency (SSA)*: The statutory authority established under this Act.
+- *Register of Samland Standards (SLS Register)*: The official publication listing all standards recognised under this Act.
+
+== Chapter 2: The Samland Standards Agency
+
+=== Section 4: Establishment
+1. The Samland Standards Agency (SSA) is hereby established as an independent statutory body with legal personality and budgetary autonomy.
+2. The SSA shall act in the public interest and exercise its functions without interference from any person or authority.
+
+=== Section 5: Composition
+1. The SSA shall consist of:
+   - A Standards Commissioner (Chair);
+   - Four (4) members appointed by the Home Office, representing science, engineering, law, and public safety;
+   - Two (2) members nominated by recognised professional associations; and
+   - One (1) member appointed by the Judicial Council to ensure alignment with legal principles.
+2. Members shall serve fixed terms of five (5) years and may be reappointed once.
+3. Decisions shall be made by majority vote, with the Chair holding a casting vote in the event of a tie.
+
+=== Section 6: Functions and Powers
+1. The SSA shall:
+   - Develop, recognise, and maintain official standards across all sectors;
+   - Publish and maintain the SLS Register;
+   - Classify standards as Legally Required, Endorsed, or Recommended;
+   - Conduct consultation prior to adopting or revising any Legally Required Standard;
+   - Cooperate with international and regional standardisation bodies;
+   - Provide accreditation to testing, inspection, and certification entities;
+   - Advise public authorities and courts on the interpretation and application of standards.
+
+== Chapter 3: Recognition and Publication of Standards
+
+=== Section 7: Adoption and Classification
+1. A standard may be adopted by the SSA through:
+   - Development by a Samland technical committee; or
+   - Recognition of an equivalent international, regional, or foreign standard.
+2. Upon adoption, each standard shall be classified as:
+   a. *Legally Required* - binding when cited by statute or regulation;
+   b. *Endorsed* - representing approved best practice; or
+   c. *Recommended* - advisory or preparatory in nature.
+3. The SSA shall ensure that all Legally Required Standards are subject to public consultation for a period of not less than thirty (30) days before adoption.
+
+=== Section 8: The Register of Samland Standards
+1. The SSA shall maintain the SLS Register, which shall:
+   - List all officially recognised standards and their classification;
+   - Indicate the field of application and status (active, revised, or withdrawn);
+   - Be published and accessible to the public electronically and in print.
+2. Standards published in the SLS Register shall have evidential status in law.
+
+=== Section 9: Accreditation
+1. The SSA may accredit organisations competent to perform testing, certification, inspection, or calibration in accordance with recognised standards.
+2. Accreditation shall be granted following assessment, subject to regular review and possible suspension or withdrawal in cases of non-compliance.
+
+== Chapter 4: Legal Effect and Enforcement
+
+=== Section 10: Legal Effect of Standards
+1. A Legally Required Standard shall have binding force where:
+   - Explicitly referenced in an Act, regulation, licence, or contract subject to Samland law; or
+   - Declared mandatory by the SSA under authority delegated by this Act.
+2. Endorsed and Recommended standards shall not have legal force but may be cited as evidence of due diligence, good practice, or reasonable compliance.
+
+=== Section 11: Judicial Recognition
+Courts may take judicial notice of standards published in the SLS Register and may refer to them when determining questions of compliance, negligence, or public safety.
+
+== Chapter 5: Oversight and Reporting
+
+=== Section 12: Independence and Accountability
+1. The SSA shall operate independently of ministerial control.
+2. The SSA shall submit an annual report to Parliament, summarising:
+   - Standards adopted, amended, or withdrawn;
+   - Accreditation activities and recognised bodies;
+   - Cooperation with international standardisation entities;
+   - Financial statements and audit results.
+
+=== Section 13: Review and Revision
+1. The SSA shall review each standard classified as Legally Required at least once every five (5) years.
+2. Revisions shall be subject to consultation and republished in the SLS Register.
+
+== Chapter 6: Transitional and Final Provisions
+
+=== Section 14: Continuation of Existing Standards
+1. All standards, codes, and specifications previously recognised by any Samland authority shall remain in force until reviewed by the SSA.
+2. Within two (2) years of this Act's commencement, the SSA shall compile and publish a consolidated register of such existing standards.
+
+=== Section 15: Commencement
+This Act shall come into force on the date of its publication in the official repository.
