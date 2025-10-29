@@ -1,0 +1,23 @@
+= Recognition of ISO 20022 as legally required (Instrument of Recognition No. SLS/2025/001)
+
+== Authority
+This Instrument is issued under Section 7(1) and Section 8 of the Standards and Accreditation Act 2025 by the Samland Standards Agency (SSA).
+
+== Preamble
+Whereas ISO 20022 provides a common platform for the development of financial message standards using a modelling methodology, a central dictionary, and a set of XML and ASN.1 design rules;
+
+Whereas the standard is globally recognised and widely adopted in interbank and retail payment systems, and its application is essential to the secure and interoperable operation of the Samland Digital Currency (SML) and associated payment infrastructure;
+
+The SSA hereby issues the following recognition.
+
+== Section 1: Recognition
+1. The international standard *ISO 20022:2013 (including Amendment 1:2021)* is hereby recognised as an **official Samland Standard**.
+2. This standard is classified as **Legally Required** within the meaning of Section 7(2)(a) of the *Standards and Accreditation Act 2025*.
+3. The field of application is *financial services, payments, settlements, and related message protocols*.
+4. This recognition applies to all entities operating payment or financial messaging infrastructure within the jurisdiction of Samland.
+
+== Section 2: National Application
+1. The following national provisions shall apply:
+   a. We recognise that Samland does not have an official country code under ISO 3166 meaning we cannot adopt a currency code under ISO 4217 principles. However, for the purposes of ISO 20022 message definitions, the currency code "SML" shall be used to represent the Samland Digital Currency.
+   b. Message identifiers and schema definitions shall conform to the ISO 20022 Data Dictionary and Business Model Repository.
+   c. The Department of Finance may issue supplementary implementation guidance to ensure compliance with domestic legal and technical requirements.
