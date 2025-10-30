@@ -4,39 +4,44 @@
 
 === Section 1: Purpose
 1. This Act may be cited as the "Digital Currency and Payments Act 2025".
-2. This Act establishes the Samland Digital Currency (SML) as legal tender and defines standards for issuance, transaction processing, and regulatory oversight.
+2. This Act establishes the Samland Dollar (SML) as legal tender and defines standards for issuance, transaction processing, and regulatory oversight.
 
-=== Section 2: Scope
-1. Applies to all entities involved in the issuance, transaction processing, or facilitation of SML.
-2. Includes citizen-to-citizen, citizen-to-merchant, and merchant-to-merchant payments.
-
-=== Section 3: Definitions
+=== Section 2: Definitions
 For the purposes of this Act:
 
 - *Register of Samland Standards (SLS Register)*: Refers to the Register of Samland Standards established under the Standards and Accreditation Act 2025 Section 8.
 - *SLS-2025-001*: Refers to the recognition of ISO 20022 as legally required in Register of Samland Standards.
 - *DPA*: Refers to the Data Protection Act 2025.
 - *DIA*: Refers to the Digital Identity Act 2025.
-- *Digital Currency (SML)*: Legal tender denominated and recorded via SLS-2025-001 compliant ledgers.
+- *Samland Dollar (SML)*: The official digital currency of Samland, established as legal tender under this Act.
 - *Payment Service Provider (PSP)*: Entity operating citizen-facing infrastructure or merchant integration.
 - *Department of Finance (DoF)*: Institution responsible for currency issuance, monetary policy, and financial oversight.
 
-== Chapter 2: Transactions and Compliance
+== Chapter 2: The Samland Dollar
 
-=== Section 4: Transaction Standards
-1. All SML transactions must comply with SLS-2025-001 messaging standards.
-2. Payment systems must ensure accuracy, consistency, and reconciliation of transactions in accordance with SLS-2025-001.
+=== Section 3: Issuance and Legal Tender Status
+1. The Samland Dollar (SML) is established as the official digital currency of Samland.
+2. SML is legal tender for all debts, public and private, within Samland.
+3. The DoF is responsible for the issuance, distribution, and management of SML.
+4. SML must be accepted by all PSPs and merchants for transactions within Samland.
+
+=== Section 4: General provisions
+1. The currency shall be known as the "Samland Dollar".
+2. The symbol for the Samland Dollar shall be the section sign "§" placed before the number.
+3. The Samland Dollar shall be subdivided into 100 smaller units called "pennies".
+4. The symbol for the penny shall be "p" place after the number.
 
 === Section 5: Citizen and Merchant Access
 1. Citizens may use payment endpoints (apps, terminals, mobile wallets) to initiate SML transactions.
 2. Payment systems may authenticate users via DIA established digital identity but may not retain identity data beyond verification.
 
-== Chapter 3: Regulation and Oversight
+== Chapter 3: Standards and Compliance
 
-=== Section 6: Compliance Requirements
-1. All PSPs and payment infrastructure must be authorised and certified by the DoF.
-2. PSPs must implement measures to ensure compliance with SLS-2025-001, DPA, and DIA.
-3. Merchants accepting SML must ensure their payment systems comply with SLS-2025-001, DPA, and DIA.
+=== Section 6: Application of SLS-2025-001
+1. All SML transactions must comply with SLS-2025-001 messaging standards.
+2. Payment systems must ensure accuracy, consistency, and reconciliation of transactions in accordance with SLS-2025-001.
+3. PSPs must implement measures to ensure compliance with SLS-2025-001, DPA, and DIA.
+4. Merchants accepting SML must ensure their payment systems comply with SLS-2025-001, DPA, and DIA.
 
 === Section 7: DoF Responsibilities
 1. Approve, certify, and monitor PSPs and payment infrastructure.
@@ -48,5 +53,6 @@ For the purposes of this Act:
 2. DoF decisions may be appealed through administrative or judicial channels.
 
 === Section 9: Updates and Standards
-1. The DoF shall maintain SLS-2025-001 compliance and may issue updated technical standards.
+1. The DoF shall maintain compliance with SLS-2025-001 as published and updated from time to time in the SLS Register.
 2. Updates must not compromise transaction integrity or interoperability.
+3. The DoF may specify a transitional compliance period not exceeding twelve (12) months following updates to SLS-2025-001.
